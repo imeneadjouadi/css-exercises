@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.firstclass {
+    font: verdana ;
+    fallback:sans-serif;
+    background-color: rgba(255, 112, 150, 0.986);
+}
+#firstid {
+
+    color:rgb(57, 57, 246);
+    font-size: 36px;
+}
+.secondclass {
+    font-size: 24px;
+}
+#secondid {
+    background-color: rgb(133, 244, 105);
+    font-weight: bold;
+    font-size: 24px;
+}
