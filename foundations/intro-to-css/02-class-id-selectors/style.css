@@ -1,8 +1,7 @@
 /* Add CSS Styling */
 .firstclass {
-    font: verdana ;
-    fallback:sans-serif;
-    background-color: rgba(255, 112, 150, 0.986);
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #firstid {
 
